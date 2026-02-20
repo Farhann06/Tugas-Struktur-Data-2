@@ -12,7 +12,7 @@ Project ini berisi beberapa latihan dasar Python menggunakan konsep:
 ### 1️⃣ Deduplicasi
 Menghapus elemen duplikat dari list tanpa mengubah urutan awal.
 
-File: `(https://github.com/Farhann06/Tugas-Struktur-Data-2/blob/main/Deduplicasi.py)`
+File: `deduplikasi.py`
 
 ---
 

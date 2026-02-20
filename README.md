@@ -1,4 +1,4 @@
-# Latihan Python Dasar
+# Tugas 5 Soal Struktur Data
 
 Project ini berisi beberapa latihan dasar Python menggunakan konsep:
 - List

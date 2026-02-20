@@ -54,4 +54,4 @@ Pastikan Python sudah terinstall.
 Contoh menjalankan file:
 
 ```bash
-python deduplikasi.py
+https://github.com/Farhann06/Tugas-Struktur-Data-2/blob/main/Jadi%20Satu.py

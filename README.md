@@ -54,4 +54,4 @@ Pastikan Python sudah terinstall.
 Contoh menjalankan file:
 
 ```bash
-https://github.com/Farhann06/Tugas-Struktur-Data-2/blob/a1a01a431cd0802d506d9b8d074b2ced32fda2b6/5%20Program%20jadi%201.py
+https://github.com/Farhann06/Tugas-Struktur-Data-2/blob/main/5%20Program%20jadi%201.py
